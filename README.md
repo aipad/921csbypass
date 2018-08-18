@@ -1,6 +1,6 @@
-# 921csbypass
+# iOS 9.2.1 codesign bypass
 
-fixed in 9.3.
+Fixed on iOS 9.3.
 
 drop this code into any app and it should allow you to load arbitrary code in it.
 
